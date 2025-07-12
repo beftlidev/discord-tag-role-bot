@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <h3>🏷️ Automatic Tag-Based Role Management Bot</h3>
+  <h3>Automatic Tag-Based Role Management Bot</h3>
   <p>A specialized bot that monitors tag changes in your Discord server in real-time and automatically assigns roles.</p>
 </div>
 
