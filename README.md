@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Discord.js-v14-blue?style=for-the-badge&logo=discord" alt="Discord.js v14">
-  <img src="https://img.shields.io/badge/Node.js-18+-green?style=for-the-badge&logo=node.js" alt="Node.js 18+">
+  <img src="https://img.shields.io/badge/Node.js-18+-darkgreen?style=for-the-badge&logo=node.js" alt="Node.js 18+">
   <img src="https://img.shields.io/badge/License-MIT-red?style=for-the-badge" alt="License">
 </div>
 
@@ -149,19 +149,9 @@ start.bat
 
 ---
 
-## 🤝 Contributing
-
-1. Fork this repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push your branch (`git push origin feature/amazing-feature`)
-5. Create a Pull Request
-
----
-
 ## 📝 License
 
-This project is licensed under the ISC License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -171,6 +161,20 @@ This project is licensed under the ISC License. See the [LICENSE](LICENSE) file 
 1. **Bot not working**: Check `config.js` settings
 2. **Role not assigned**: Verify server ID and role ID
 3. **No logs**: Check log channel ID
+
+### 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://discord.com/users/389071682649849868" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://github.com/beftlidev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:beftlidev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
 ---
 
